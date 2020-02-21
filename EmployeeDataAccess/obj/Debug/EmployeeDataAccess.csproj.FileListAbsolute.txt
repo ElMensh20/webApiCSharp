@@ -1,0 +1,11 @@
+C:\Users\musta\source\repos\EmployeeServies\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll.config
+C:\Users\musta\source\repos\EmployeeServies\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.dll
+C:\Users\musta\source\repos\EmployeeServies\EmployeeDataAccess\bin\Debug\EmployeeDataAccess.pdb
+C:\Users\musta\source\repos\EmployeeServies\EmployeeDataAccess\bin\Debug\EntityFramework.dll
+C:\Users\musta\source\repos\EmployeeServies\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\musta\source\repos\EmployeeServies\EmployeeDataAccess\bin\Debug\EntityFramework.xml
+C:\Users\musta\source\repos\EmployeeServies\EmployeeDataAccess\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\musta\source\repos\EmployeeServies\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csprojAssemblyReference.cache
+C:\Users\musta\source\repos\EmployeeServies\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.csproj.CopyComplete
+C:\Users\musta\source\repos\EmployeeServies\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.dll
+C:\Users\musta\source\repos\EmployeeServies\EmployeeDataAccess\obj\Debug\EmployeeDataAccess.pdb
